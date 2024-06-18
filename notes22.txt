@@ -1,0 +1,22 @@
+Devops : culture thatimpoves delivery ontime
+manual--automation+quality+monitaring+automation testing----deliver
+devops is a process delivery by ensuring automation in place,ensuring the quality,continueous,contineous tesing--
+1.system admin
+2.bre
+3.sa
+
+dev                 opertation team
+1.plan               dep
+2.code               monitaring
+3.build
+4.test              automation
+
+plan/code---git,jira
+build---maven/gradle
+testing--selenium
+int--jenkins
+dep by--docker
+oper-ansible
+
+
+

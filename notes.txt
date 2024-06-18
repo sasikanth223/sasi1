@@ -1,0 +1,39 @@
+1. Install virual box--vm-ubuntu--linux
+
+linux
+vm
+ununtu
+
+
+first step : ununtu os--vb--linux--commands
+
+https://www.linuxteck.com/how-to-install-ubuntu-22-04-lts-step-by-step/
+https://www.downloadcrew.com/article/17/virtualbox
+https://phoenixnap.com/kb/install-virtualbox-on-ubuntu
+
+1.linux
+2.scm tools: git,gihub,gitlab,bitbucket
+3.artifact---converting a project into a single file to deploy--maven
+4.webserver--apachetop
+5.database--sql--mysql
+6.scripting---python
+7.AWS--services--
+8.configuration tools-- ansible,puppet--managing tools
+9.container-- docker,kubernates
+10.testing--selenium with python
+11.integration----ci/cd
+12.teraform
+
+
+python basics
+intermedite
+
+python -- high level programming--understand by user
+          low level  programming--understand by 
+
+python is a interprer language used for general purpose high level language
+             designed by Guido Van Rossum in 1991
+
+Documnetation on python basics
+                 devops tools
+

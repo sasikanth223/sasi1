@@ -1,0 +1,92 @@
+python variables--it is a  container to hold data
+    x=6   x--is a variable storing data
+
+
+In programming, type conversion is the process of converting data of one type to another.converting int data to str.
+
+There are two types of type conversion in Python.
+
+Implicit Conversion --- automatic type conversion
+Explicit Conversion --- manual type conversion
+
+Implicit Conversion--
+integer_number = 123
+float_number = 1.23
+new_number = integer_number + float_number
+print("Value:",new_number)
+print("Data Type:",type(new_number))
+
+Explicit Conversion---
+num_string = '12'
+num_integer = 23
+
+print("Data type of num_string before Type Casting:",type(num_string))
+num_string = int(num_string)
+print("Data type of num_string after Type Casting:",type(num_string))
+num_sum = num_integer + num_string
+print("Sum:",num_sum)
+print("Data type of num_sum:",type(num_sum))
+
+Python Operators--Operators are special symbols that perform operations on variables and values.
+
+1.Arithmetic Operators
+2.Assignment Operators
+3.Comparison Operators
+4.Logical Operators
+5.Bitwise Operators
+6.Special Operators
+
+1.Arithmetic Operators--Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication, etc.
+
+Operator	   Operation	
++	        Addition	
+-	        Subtraction	
+*	        Multiplication	
+/	        Division	
+//	      Floor Division	
+%	       Modulo
+**             power
+
+syntax--
+a=5
+b=5
+print(a+b)  #10
+print(a-b)  #0
+print(a*b)  #25 
+print(a/b)  #1.0
+print(a//b) #1
+print(a%b)  #0
+print(a**b) #3125
+
+2.Assignment Operators--Assignment operators are used to assign values to variables.
+
+Operator	Name	
+=	Assignment Operator	
++=	Addition Assignment	
+-=	Subtraction Assignment	
+*=	Multiplication Assignment	
+/=	Division Assignment	
+%=	Remainder Assignment	
+**=	Exponent Assignment
+
+syntax---
+a=10
+b=5
+)a+=b
+print(a) #15
+
+
+3.Comparison Operators--Comparison operators compare two values/variables and return a boolean result: True or False
+
+syntax--
+a=10
+b=4
+print(a>b) #true
+
+4.Logical Operators--Logical operators are used to check whether an expression is True or False. 
+
+syntax--
+a=10
+b=4
+print(a>b)and(b>=4) # true
+

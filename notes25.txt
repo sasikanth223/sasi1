@@ -1,0 +1,20 @@
+print()
+id()
+type()
+ python came from functional programming feature from c
+
+we can use everywhere.
+
+
+
+
+
+
+
+
+
+
+operators +,-,
+
+aws
+devops

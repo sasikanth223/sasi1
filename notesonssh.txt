@@ -1,0 +1,12 @@
+power shell
+mkdir ssh
+cd ssh
+ssh-keygen -o---admin
+location
+cd\
+cd user
+
+.ssh>cat id_rsa.pub
+
+
+7386979016

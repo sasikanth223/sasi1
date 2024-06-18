@@ -1,0 +1,8 @@
+dynamic input
+ input :
+x=10  } static
+y=20
+
+input("enter the value")//string
+int(input("enter the value"))
+float(input(enter the value"))
